@@ -1,0 +1,10 @@
+release/canhandler.o
+release/main.o
+release/gpiohandler.o
+release/spihandler.o
+release/uarthandler.o
+release/qrc_qml.o
+release/moc_canhandler.o
+release/moc_gpiohandler.o
+release/moc_spihandler.o
+release/moc_uarthandler.o

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>speedometer.qml</file>
+        <file>brake.qml</file>
+        <file>steering.qml</file>
+        <file>temperature.qml</file>
+    </qresource>
+</RCC>
