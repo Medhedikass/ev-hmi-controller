@@ -6,6 +6,14 @@ A comprehensive Human-Machine Interface (HMI) system for electric vehicle contro
 
 This project provides a complete control and monitoring interface for an electric vehicle's BLDC motors. The system uses a Raspberry Pi 4 running a Qt QML interface that communicates with an STM32F446 microcontroller, which handles real-time motor control via analog signals.
 
+## Screenshots
+
+### Original HMI Interface
+![HMI Interface](docs/images/hmi-interface.jpg)
+
+### Modified HMI Interface
+![Modified HMI Interface](docs/images/hmi-interface-modified.jpg)
+
 ## Features
 
 ### Control Functions
